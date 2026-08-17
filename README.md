@@ -70,22 +70,21 @@ Full details, evidence, and remediation steps for every finding are in the [asse
 sme-website-security-audit/
 ├── README.md # You are here
 ├── report/
-│ ├── SME_Website_Security_Audit_Report_Akinwumi_Oni.docx
-│ └── SME_Website_Security_Audit_Report_Akinwumi_Oni.pdf
+│    └── SME_Website_Security_Audit_Report_Akinwumi_Oni.pdf
 ├── evidence/
 │ ├── kali-attacker/ # Recon, ZAP scans, exploitation screenshots
 │ └── ubuntu-host/ # Environment setup & remediation screenshots
 └── video/
-└── walkthrough.md # Link to the 2–3 min video walkthrough
+     └── walkthrough.md # Link to the 2–3 min video walkthrough
 
 ```
 
 ## 📄 Deliverables
 
-- 📝 [Full Assessment Report (DOCX/PDF)](./report)
-- 🖼️ [Evidence screenshots — Kali (attacker)](./evidence/kali-attacker)
-- 🖼️ [Evidence screenshots — Ubuntu (SME host)](./evidence/ubuntu-host)
-- 🎥 [2–3 minute video walkthrough](./video/walkthrough.md)
+- 📝 [Full Assessment Report (PDF)](<./report/sme_website_(dvwa)_security_audit_report-akinwumi_oni.pdf>)
+- 🖼️ [Evidence screenshots — Kali (attacker)](./evidence/kali-attacker/kali-attacker.pdf)
+- 🖼️ [Evidence screenshots — Ubuntu (SME host)](./evidence/ubuntu-host/ubuntu-host.pdf)
+- 🎥 [2 minute video walkthrough](./video/walkthrough.md)
 
 ## ⚖️ Disclaimer
 
