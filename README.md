@@ -56,7 +56,7 @@ DVWA was deployed on a fresh Ubuntu Server VM (Apache + MariaDB + PHP) to stand 
 | F-10 | `X-Content-Type-Options` header missing             | 🟢 Low           | 🔧 Recommended             |
 | F-11 | Minor information disclosure (hidden file / banner) | ⚪ Informational | 🔧 Recommended             |
 
-Full details, evidence, and remediation steps for every finding are in the [assessment report](./report).
+Full details, evidence, and remediation steps for every finding are in the [assessment report](./report/sme_website_(dvwa)_security_audit_report-akinwumi_oni.pdf).
 
 ## ✅ Remediation Highlights
 
