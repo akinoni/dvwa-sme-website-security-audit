@@ -63,7 +63,9 @@ Full details, evidence, and remediation steps for every finding are in the [asse
 - **SQL Injection (F-01):** Rewrote the vulnerable query in `vulnerabilities/sqli/source/low.php` from raw string concatenation to a **PDO prepared statement** with a bound parameter, then re-tested the same payloads to confirm the fix holds.
 - **No Transport Encryption (F-03):** Enabled `mod_ssl` / `mod_headers`, generated a self-signed certificate, and activated the `default-ssl` Apache site so the application is now served over HTTPS.
 
-## 📁 Repository Structu
+## 📁 Repository Structure
+
+```
 
 sme-website-security-audit/
 ├── README.md # You are here
@@ -94,4 +96,3 @@ DVWA is **intentionally vulnerable** software distributed for security training 
 **Akinwumi Oni**
 Fellow ID: FE/26/717977653
 Cybersecurity NextGen Cohort
-```
